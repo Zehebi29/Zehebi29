@@ -34,4 +34,4 @@ I am currently a **Postdoctoral Researcher** at **The Hong Kong Polytechnic Univ
 ## Contact (optional)
 
 - Academic email: *(hangbin.zheng@polyu.edu.hk)*
-- Google Scholar: *([add links here](https://scholar.google.com/citations?user=Ek5N7FIAAAAJ&hl=zh-CN))*
+- Google Scholar: *([Hangbin Zheng](https://scholar.google.com/citations?user=Ek5N7FIAAAAJ&hl=zh-CN))*
