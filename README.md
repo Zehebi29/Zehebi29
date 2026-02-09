@@ -18,7 +18,7 @@ My recent research centers on **visual modeling → multimodal reasoning → opt
 
 ## Education & Experience  (brief)
 
-I am currently a **Postdoctoral Researcher** at **The Hong Kong Polytechnic University**. I received my **Ph.D. (2025)** in Intelligent Manufacturing & Robotics from **Donghua University**, supervised by [Prof. Jinsong Bao](https://www.researchgate.net/profile/Bao-Jinsong). My research focuses on digital-twin visual modeling, multimodal reasoning, and human-in-the-loop optimization for healthcare and industrial applications.
+I am currently a **Postdoctoral Researcher** at **The Hong Kong Polytechnic University**. I received my **Ph.D. (2025)** in Intelligent Manufacturing & Robotics from **Donghua University**. My research focuses on digital-twin visual modeling, multimodal reasoning, and human-in-the-loop optimization for healthcare and industrial applications.
 
 ---
 
