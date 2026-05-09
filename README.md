@@ -1,4 +1,4 @@
-# Hi, I'm Henry 👋
+# Hi, I'm Zehebi 👋
 
 I work on **AI for digital twins and human-in-the-loop visual intelligence**, focusing on building data-efficient, explainable, and deployable CV/ML systems for **healthcare** and **industrial** scenarios.
 
