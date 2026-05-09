@@ -1,4 +1,4 @@
-# Hi, I'm Hangbin 👋
+# Hi, I'm Henry 👋
 
 I work on **AI for digital twins and human-in-the-loop visual intelligence**, focusing on building data-efficient, explainable, and deployable CV/ML systems for **healthcare** and **industrial** scenarios.
 
@@ -15,23 +15,5 @@ My recent research centers on **visual modeling → multimodal reasoning → opt
 - **Human feedback–guided visual optimization**
 
 ---
-
-## Education & Experience  (brief)
-
-I am currently a **Postdoctoral Researcher** at **The Hong Kong Polytechnic University**. I received my **Ph.D. (2025)** in Intelligent Manufacturing & Robotics from **Donghua University**. My research focuses on digital-twin visual modeling, multimodal reasoning, and human-in-the-loop optimization for healthcare and industrial applications.
-
----
-
-## Recent Publications (selected)
-
-- **Expert Systems with Applications (2024)**: Multi-attribute guided contextual attention for GI submucosal tumor recognition  
-- **Journal of Intelligent Manufacturing (2024)**: Visual analytics for digital twins (framework & case study)  
-- **EClinicalMedicine (2024)**: Multicenter study on real-time AI-aided EUS diagnosis
-
----
-
 ## Contact
-
-- QQ: 920882204
-- Academic email: *(hangbin.zheng@polyu.edu.hk)*
-- Google Scholar: *([Hangbin Zheng](https://scholar.google.com/citations?user=Ek5N7FIAAAAJ&hl=zh-CN))*
+- Email:zhb@mail.dhu.edu.com
