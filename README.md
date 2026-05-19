@@ -16,4 +16,4 @@ My recent research centers on **visual modeling → multimodal reasoning → opt
 
 ---
 ## Contact
-- Email:zhb@mail.dhu.edu.com
+- Email: zhb@mail.dhu.edu.com
